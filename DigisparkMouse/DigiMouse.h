@@ -7,6 +7,13 @@
  * Most of the credit for the joystick code should go to Raphaël Assénat
  * And now mouse credit is due to Yiyin Ma and Abby Lin of Cornell
  */
+
+
+// https://github.com/digistump/DigistumpArduino/blob/master/digistump-avr/libraries/DigisparkMouse/DigiMouse.h
+// https://github.com/David-cmrg/DigiSpark/tree/main/DigisparkMouse/src/DigiMouse.h
+
+
+	
 #ifndef __DigiMouse_h__
 #define __DigiMouse_h__
  

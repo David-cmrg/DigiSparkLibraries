@@ -1,5 +1,5 @@
 # DigiSparkLibraries
-###### *Not accessible on the Library Manager. Installation must be done manual!*
+###### *Not accessible on the Library Manager of the ArduinoIDE. Installation must be done manual!*
 
 
 

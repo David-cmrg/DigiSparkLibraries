@@ -1,4 +1,7 @@
 # DigiSparkLibraries
+###### *Not accessible on the Library Manager. Installation must be done manual!*
+
+
 
 This repository contains fully functional DigiSpark libraries. These libraries can be easily downloaded and integrated into your projects with clear instructions provided.
 

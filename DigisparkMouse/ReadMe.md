@@ -12,7 +12,7 @@ There is nothing you have to do other than downloading the corresponding ZIP Fil
 5. With the installed library you now only have to include ` #include "DigiMouse.h" ` in the top lines (before your other code)
 
 
-Properly following this steps will allow you to implement the DigisparkKeyboard library directly into your IDE
+Properly following this steps will allow you to implement the DigisparkMouse library directly into your IDE
 without having any issues!
 
 IF you encounter any issues or similar i recomend you to visit [this page](https://github.com/digistump/DigistumpArduino/tree/master/digistump-avr/libraries/DigisparkMouse).

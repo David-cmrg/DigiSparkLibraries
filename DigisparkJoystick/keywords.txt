@@ -1,0 +1,5 @@
+DigiKeyboard	KEYWORD1
+update KEYWORD2
+sendKeyStroke KEYWORD2
+
+// Yes, this are the official Keywords. Check "https://github.com/digistump/DigistumpArduino/blob/master/digistump-avr/libraries/DigisparkJoystick/keywords.txt"

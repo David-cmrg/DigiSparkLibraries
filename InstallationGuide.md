@@ -72,7 +72,3 @@ For questions or support, reach out to me:
 - **GitHub**: [David-cmrg](https://github.com/David-cmrg)
 
 I hope these libraries and instructions enhance your projects! Best regards.
-
-## License
-
-This project is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0). See the [LICENSE](LICENSE) file for details or visit [https://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/).

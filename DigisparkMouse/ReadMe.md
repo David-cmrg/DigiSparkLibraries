@@ -15,5 +15,4 @@ There is nothing you have to do other than downloading the corresponding ZIP Fil
 Properly following this steps will allow you to implement the DigisparkKeyboard library directly into your IDE
 without having any issues!
 
-IF you encounter any issues or similar i recomend you to visit: 
-https://github.com/digistump/DigistumpArduino/tree/master/digistump-avr/libraries/DigisparkMouse
+IF you encounter any issues or similar i recomend you to visit [this page](https://github.com/digistump/DigistumpArduino/tree/master/digistump-avr/libraries/DigisparkMouse).

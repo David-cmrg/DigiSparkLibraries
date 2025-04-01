@@ -37,6 +37,7 @@ For more details, check out the repository: [DigiSparkLibraries on GitHub](https
 ---
 
 # DigiSpark Libraries Installation Guide
+#### USING THE RELEASE´s .ZIP FILE
 
 ## Overview
 
@@ -60,6 +61,11 @@ This repository contains libraries and instructions for integrating them into yo
 - Basic familiarity with your editor’s interface.
 
 ## Installation Methods
+
+
+First of all we will need to unzip the Release.zip you just downloaded from my GitHub Repository!
+This is universal for all instalation methods.
+
 
 ### Zipped Method (Recommended)
 

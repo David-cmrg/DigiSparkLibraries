@@ -52,7 +52,6 @@ This repository contains libraries and instructions for integrating them into yo
 - [Troubleshooting](#troubleshooting)
 - [Contributing](#contributing)
 - [Contact](#contact)
-- [License](#license)
 
 ## Prerequisites
 

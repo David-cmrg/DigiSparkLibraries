@@ -19,6 +19,8 @@ This repository contains fully functional DigiSpark libraries. These libraries c
 - **DigisparkUSB**
 - **DigisparkOLED** 
 ###### *DigisparkOLED: Not available in Pre Release V1.0*
+- **DigisparkRGB** 
+###### *DigisparkRGB: Not available in Pre Release V1.0*
 
 *Planning on adding all other Libraries in near future*
 

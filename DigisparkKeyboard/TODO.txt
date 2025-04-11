@@ -1,0 +1,4 @@
+Create V1.1:
+- Add new example (HelloWorld.ino)
+- Add addition of German keyboard layout
+- Will fix old library.properties issue
